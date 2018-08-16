@@ -10,11 +10,13 @@
 
 <p><b> Step - 1 :- </b> Download or clone this project from this repository . </p>
 
-<p><b> Step - 2 :- </b> Create a database named needy in your phpmyadmin and then in that database import a file named needy.sql which is provided. </p>
+<p><b> Step - 2 :- </b> Create a database named needy in your phpmyadmin and then in that database import a file named needy.sql which is provided here inside the Database folder at the top. </p>
 
-<p><b> Step - 3 :- </b> Now run the index.php file which is provided here and hopefully you will see the index page . </p>
+<p><b> Step - 3 :- </b> Now go to this path C:\xampp\htdocs and copy that downloaded or cloned project here .  </p>
 
-<p><b> Step - 4 :- </b> Now you can search products , add the products to the cart , buy products . </p>
+<p><b> Step - 4 :- </b> Now go to your browser and insert this link http://localhost/dailyneeds/ . Hopefully you will be able to see the index page . </p>
+
+<p><b> Step - 5 :- </b> Now you can search products , add the products to the cart , buy products . </p>
 <br>
 
 
