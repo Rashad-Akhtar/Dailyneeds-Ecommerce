@@ -1,5 +1,5 @@
 <?php
-require_once '/core/init.php';
+require_once 'core/init.php';
 include 'includes/userHead.php';
 //include 'includes/navigation.php';
 include 'includes/userheaderfull.php';

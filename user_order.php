@@ -1,5 +1,5 @@
 <?php
-include '/core/init.php';
+include 'core/init.php';
 include 'includes/userHead.php';
 include 'includes/navigation.php';
 include 'includes/userheaderfull.php';
