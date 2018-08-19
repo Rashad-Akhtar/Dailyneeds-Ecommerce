@@ -19,6 +19,14 @@
 <p><b> Step - 5 :- </b> Now go to your browser and insert this link http://localhost/dailyneeds/ . Hopefully you will be able to see the index page . </p>
 
 <p><b> Step - 6 :- </b> Now you can search products , add the products to the cart , buy products . </p>
+
+<p><b> Step - 7 :- </b> While Checking Out Give below informations on your card details:- <br>
+                   1.Name on Card :- You can give any name .<br>
+                   2.Card Number :- 4242 4242 4242 4242  <br>
+                   3.CVC :- 123 <br>
+                   4.Expire Month and Expire Year :- Choose any month and year which is greater than current month and year .
+</p>
+
 <br>
 
 
