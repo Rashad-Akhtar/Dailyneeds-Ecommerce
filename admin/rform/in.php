@@ -91,7 +91,7 @@ include '../includes/head2.php';
 
      if($count > 0 )
      {
-       $errors[]  .= $email.' already exist in our database .';
+       $errors[]  .= $email.' already exists in our database .';
      }
 
 
@@ -103,10 +103,10 @@ include '../includes/head2.php';
        }
      }
      if(strlen($password) < 6){
-       $errors[] = 'Your password must be at least 6 charecters';
+       $errors[] = 'Your password must be at least 6 characters';
      }
      if($password != $confirm){
-       $errors[] = 'Your password don\'t match. ';
+       $errors[] = "Your password doesn't match. ";
      }
      if(!filter_var($email,FILTER_VALIDATE_EMAIL)){
        $errors[] = 'You must enter a valid email.';
@@ -128,7 +128,7 @@ include '../includes/head2.php';
      // }else{
      $sql ="INSERT INTO customer2 (name,email,mobile,password,address) VALUES ('$name','$email','$mobile','$password','$address')";
      $db->query($sql);
-     $_SESSION['success_flash'] = 'user has been added!';
+     $_SESSION['success_flash'] = 'User has been added!';
     // $db->query("INSERT INTO admin_user (full_name,email,password,permission) VALUES ('$name','$email','$hashed','$permissions')");
     // $_SESSION['success_flash'] = 'user has been added!';
      header('Location: user_login.php');
