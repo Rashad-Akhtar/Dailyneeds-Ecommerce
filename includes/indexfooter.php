@@ -99,8 +99,8 @@
     <h3><b>Find Us At</b></h3>
      <hr style="height:2px;width:200px;border:none;color:#999999;background-color:#999999;">
       <div>
-        <div class="col-md-3"><img src="images/products/facebook.png" style="height: 50px;width: 50px;"></div>
-        <div class="col-md-3"><img src="images/products/twitter.png" style="height: 50px;width: 50px;"></div>
+        <div class="col-md-3"><img src="images/products/fb.png" style="height: 50px;width: 50px;"></div>
+        <div class="col-md-3"><img src="images/products/twit.png" style="height: 50px;width: 50px;"></div>
         <div class="col-md-3"><img src="images/products/github.png" style="height: 50px;width: 50px;"></div>
         <div class="col-md-3"><img src="images/products/link.png" style="height: 50px;width: 50px;"></div>
       </div>
